@@ -4,7 +4,9 @@ I am a highly skilled Software Developer with over 3+ years of practical experie
 
 Checkout my projects at:
 https://karan-punjabi.netlify.app/
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan1223&show_icons=true)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranPunjabi&show_icons=true)
 
 
 
