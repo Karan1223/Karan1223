@@ -10,7 +10,6 @@ https://karan-punjabi.netlify.app/
 
 ![](https://raw.githubusercontent.com/Karan1223/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-
 <!--
 **Karan1223/Karan1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
