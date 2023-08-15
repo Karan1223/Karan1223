@@ -6,7 +6,7 @@ Checkout my projects at:
 https://karan-punjabi.netlify.app/
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KaranPunjabi&show_icons=true)
+![Karan Punjabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan1223&show_icons=true)
 
 
 
