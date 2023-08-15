@@ -2,12 +2,12 @@
 
 I am a highly skilled Software Developer with over 3+ years of practical experience in creating user-focused software solutions, tackling intricate challenges, and actively contributing to team achievements through dedication and meticulousness. I am eager to put in extra effort to continuously learn, expand my skills, and thrive in the IT sector. My goal is to secure a role as a Software Developer.
 
-Checkout my projects at:
+Checkout my portfolio website:
 https://karan-punjabi.netlify.app/
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan1223&layout=compact)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan1223&layout=compact)
 
-<!--![Karan Punjabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan1223&show_icons=true)
+![Karan Punjabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan1223&show_icons=true)
 
 ![](https://raw.githubusercontent.com/Karan1223/github-stats/master/generated/overview.svg#gh-dark-mode-only)-->
 
