@@ -5,6 +5,8 @@ I am a highly skilled Software Developer with over 3+ years of practical experie
 Checkout my portfolio website:
 https://karan-punjabi.netlify.app/
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Karan1223)](https://git.io/streak-stats)
+
 <!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan1223&layout=compact)
 
 ![Karan Punjabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan1223&show_icons=true)
