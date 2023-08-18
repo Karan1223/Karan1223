@@ -9,11 +9,6 @@ https://karan-punjabi.netlify.app/
 
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan1223&layout=compact)
-![Karan Punjabi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan1223&show_icons=true)
-
-![](https://raw.githubusercontent.com/Karan1223/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-
 <!--
 **Karan1223/Karan1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
