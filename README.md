@@ -8,7 +8,7 @@ https://karan-punjabi.netlify.app/
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Karan1223)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan1223&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan1223&layout=compact)
-
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Karan1223)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Karan1223/Karan1223** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
