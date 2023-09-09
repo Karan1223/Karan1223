@@ -7,7 +7,7 @@ https://karan-punjabi.netlify.app/
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Karan1223)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karan1223&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan1223&layout=compact&langs_count=10&hide=php,CSS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karan1223&layout=compact&langs_count=10&hide=php,CSS,Jupyter)
 
 
 <!--
